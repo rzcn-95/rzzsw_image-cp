@@ -1,0 +1,5 @@
+{
+  "name": "ComfyUI Node Compositor",
+  "description": "A specialized image composition tool simulating a ComfyUI node environment. Allows users to upload a fixed background and overlay multiple foreground images with real-time position and scale adjustments.",
+  "requestFramePermissions": []
+}
